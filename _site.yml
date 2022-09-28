@@ -1,0 +1,18 @@
+name: "Mixing Models for Observational Geochemists Workshop"
+output_dir: "docs"
+navbar:
+  title: "Mixing Models for Observational Geochemists Workshop"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: Schedule.html
+    - text: "Materials"
+      href: Materials.html
+    - text: "About"
+      href: About.html
+output:
+  html_document:
+    theme: flatly
+    # include:
+    #   after_body: Footer.html

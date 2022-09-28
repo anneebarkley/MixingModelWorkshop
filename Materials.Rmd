@@ -1,0 +1,40 @@
+---
+title: "Materials"
+output: html_document
+
+---
+
+### To do before workshop:
+
+1. Download R (https://www.r-project.org).
+
+2. Download RStudio (https://www.rstudio.com/products/rstudio/download/).
+
+3. Download .R script to run mixing model (https://scholarship.miami.edu/esploro/outputs/dataset/Data-for-Interannual-variability-in-the/991031652420702976). Scroll down to "Files and links" and click "Download." Unzip file and save to your local computer. The folder is called "Gaston_2022_update".
+
+4. Open RStudio. Open the file "mixingmodel.R" in the Gaston_2022_update folder in RStudio.
+
+5. Follow the directions in mixingmodel.R file and install the packages "MixSIAR", "ggplot2", "MCMCpack", "rjags" and "R2jags" starting on line 14 (shown below).
+
+````
+#Install the package "MixSIAR", "ggplot2", and "rjags" by running lines 14, 15, and 16. 
+install.packages("MixSIAR")
+install.packages("ggplot2")
+install.packages("MCMCpack")
+install.packages("rjags")
+# NOTE: the rjags library requires that "jags" is installed on the system
+# https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/
+install.packages("R2jags")
+
+````
+
+You're ready for the workshop!
+
+
+Unable to download R or RStudio? Unable to download the packages? No problem, we'd love to see you at the workshop anyways and are here to help!
+
+### Other materials
+
+1. Orginal paper: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344
+
+
