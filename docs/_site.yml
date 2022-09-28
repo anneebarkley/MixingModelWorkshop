@@ -1,5 +1,4 @@
 name: "Mixing Models for Observational Geochemists Workshop"
-output_dir: "docs"
 navbar:
   title: "Mixing Models for Observational Geochemists Workshop"
   right:
@@ -11,8 +10,12 @@ navbar:
       href: Materials.html
     - text: "About"
       href: About.html
+output_dir: "."
 output:
   html_document:
     theme: flatly
+    fig_caption: true
+    toc: true
+    toc_float: true
     # include:
     #   after_body: Footer.html
