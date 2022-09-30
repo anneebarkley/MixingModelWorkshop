@@ -4,7 +4,7 @@ output: html_document
 
 ---
 
-### To do before workshop:
+### To do before workshop (in this order!):
 
 1. Download R (https://www.r-project.org).
 
@@ -27,6 +27,7 @@ install.packages("rjags")
 install.packages("R2jags")
 
 ````
+6. Download the MixSIAR User Manual: https://zenodo.org/record/47719#.YzcQtS-z10s
 
 You're ready for the workshop!
 
@@ -35,6 +36,13 @@ Unable to download R or RStudio? Unable to download the packages? No problem, we
 
 ### Other materials
 
-1. Orginal paper: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344
+##### Peer-reviewed papers using MixSIAR
 
+1. Anne's 2022 paper using MixSIAR using Sr, Nd, and Pb isotopes: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344
 
+2. Jack Longman's 2018 paper (optimizing MixSIAR to use with Pb isotopes): https://www.nature.com/articles/s41598-018-24474-0
+
+##### Resources to help understand Mixing Models/MixSIAR
+
+1. A simple introduction to Markov-Chain Monte Carlo sampling: https://link.springer.com/article/10.3758/s13423-016-1015-8
+ 

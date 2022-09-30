@@ -4,18 +4,18 @@ output: html_document
 ---
 
 ### Geotopics Seminar
-Mon. Oct 10th at 2pm: GeoTOPICS seminar by A. Barkley called "Using statistical modeling to quantify dust source source regions to marine & terrestrial environments in the past & present."
+Mon. Oct 10th at 2pm: GeoTOPICS seminar by called "Using statistical modeling to quantify dust source regions to marine & terrestrial environments in the past & present."
 
   Zoom link: TBA
 
 ### Workshop
 Tue. Oct 11th at 10am: Mixing Models for Observational Geochemists Workshop
 
--10am - noon: presentations
+- 10am - noon: Presentations (including special guest, Shannon Doherty, PhD)
 
--noon - 1pm: break/lunch
+- noon - 1pm: break/lunch
   
--1pm - 2:30pm: Demonstration & do-it-yourself tutorial
+- 1pm - 2:30pm: Demonstration & do-it-yourself tutorial
   
 
 #### What to bring:
