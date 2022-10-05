@@ -6,11 +6,11 @@ output: html_document
 
 ### To do before workshop (in this order!):
 
-1. Download R (https://www.r-project.org).
+1. [Download R](https://www.r-project.org).
 
-2. Download RStudio (https://www.rstudio.com/products/rstudio/download/).
+2. [Download RStudio](https://www.rstudio.com/products/rstudio/download/)
 
-3. Download .R script to run mixing model (https://scholarship.miami.edu/esploro/outputs/dataset/Data-for-Interannual-variability-in-the/991031652420702976). Scroll down to "Files and links" and click "Download." Unzip file and save to your local computer. The folder is called "Gaston_2022_update".
+3. [Download .R script](https://scholarship.miami.edu/esploro/outputs/dataset/Data-for-Interannual-variability-in-the/991031652420702976) to run mixing model. Scroll down to "Files and links" and click "Download." Unzip file and save to your local computer. The folder is called "Gaston_2022_update".
 
 4. Open RStudio. Open the file "mixingmodel.R" in the Gaston_2022_update folder in RStudio.
 
@@ -27,7 +27,7 @@ install.packages("rjags")
 install.packages("R2jags")
 
 ````
-6. Download the MixSIAR User Manual: https://zenodo.org/record/47719#.YzcQtS-z10s
+6. Download the [MixSIAR User Manual](https://zenodo.org/record/47719#.YzcQtS-z10s)
 
 You're ready for the workshop!
 
@@ -36,9 +36,16 @@ Unable to download R or RStudio? Unable to download the packages? No problem, we
 
 ### Other materials
 
-##### Peer-reviewed papers using MixSIAR
+##### From the creator of MixSIAR, Brian Stock of Scripps
 
-1. Anne's 2022 paper using MixSIAR using Sr, Nd, and Pb isotopes: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344
+
+1. [Website](https://brianstock.github.io/mixsiar/#:~:text=MixSIAR%20is%20an%20open-source,following%20the%20MixSIAR%20model%20framework.)
+
+2. [Stock et al. 2018](https://peerj.com/articles/5096/) 
+
+##### Other papers using MixSIAR
+
+1. [Anne's 2022](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344) paper using MixSIAR using Sr, Nd, and Pb isotopes
 
 2. Jack Longman's 2018 paper (optimizing MixSIAR to use with Pb isotopes): https://www.nature.com/articles/s41598-018-24474-0
 

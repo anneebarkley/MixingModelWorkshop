@@ -3,13 +3,13 @@ title: "Welcome!"
 ---
 
 
-Welcome to the website for the "Mixing Models for Observational Geochemists" workshop held online and in person at the Rosenstiel School for Marine and Atmospheric Science (RSMAS) of the University of Miami. The workshop is hosted by me, Anne Barkley. 
+Welcome to the website for the "Mixing Models for Observational Geochemists" workshop held online and in person at the Rosenstiel School for Marine and Atmospheric Science (RSMAS) of the University of Miami. 
 
 - When: Tuesday, October 11th, 2022 at 10am
 
 - Where: SLAB 103
 
-- Zoom link: TBA
+- [Zoom link](https://miami.zoom.us/j/97088760587?pwd=SFhvR3czQjc1Ni8wMDI1dHAva1NSdz09)
 
 #### To do before workshop:
 - Please see the "Materials" page to the pre-workshop to-do list.
