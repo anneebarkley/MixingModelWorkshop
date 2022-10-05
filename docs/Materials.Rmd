@@ -6,6 +6,9 @@ output: html_document
 
 ### To do before workshop (in this order!):
 
+adding text
+
+
 1. [Download R](https://www.r-project.org).
 
 2. [Download RStudio](https://www.rstudio.com/products/rstudio/download/)
@@ -49,7 +52,7 @@ Unable to download R or RStudio? Unable to download the packages? No problem, we
 
 2. [Jack Longman's 2018 paper](https://www.nature.com/articles/s41598-018-24474-0)
 
-##### Resources to help understand Mixing Models/MixSIAR
+### Resources to help understand Mixing Models/MixSIAR
 
 1. Beth Babcock's Stats for Marine Scientists class!!!
 
