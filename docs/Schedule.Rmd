@@ -6,7 +6,7 @@ output: html_document
 ### Geotopics Seminar
 Mon. Oct 10th at 2pm: GeoTOPICS seminar by called "Using statistical modeling to quantify dust source regions to marine & terrestrial environments in the past & present."
 
-  Zoom link: TBA
+- Zoom link TBD 
 
 ### Workshop
 Tue. Oct 11th at 10am: Mixing Models for Observational Geochemists Workshop
@@ -18,7 +18,7 @@ Tue. Oct 11th at 10am: Mixing Models for Observational Geochemists Workshop
 - 1pm - 2:30pm: Demonstration & do-it-yourself tutorial
   
 
-#### What to bring:
+##### What to bring:
 
 - Computer & charger
 

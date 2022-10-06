@@ -1,0 +1,29 @@
+---
+title: "References"
+output: html_document
+
+---
+
+### Other materials
+
+##### From the creator of MixSIAR, Brian Stock of Scripps
+
+1. [MixSIAR Webiste](https://brianstock.github.io/mixsiar/#:~:text=MixSIAR%20is%20an%20open-source,following%20the%20MixSIAR%20model%20framework.)
+
+2. [Stock et al. 2018](https://peerj.com/articles/5096/) 
+
+3. Evaluating endmembers [To fit or not to fit? Smith et al. 2013](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12048)
+
+##### Other papers using geochemistry MixSIAR
+
+1. [Anne's 2022](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097344) paper using MixSIAR using Sr, Nd, and Pb isotopes
+
+2. [Jack Longman's 2018 paper](https://www.nature.com/articles/s41598-018-24474-0)
+
+##### Resources to help understand Mixing Models/MixSIAR/stats
+
+1. Beth Babcock's Stats for Marine Scientists class!!!
+
+2. A simple introduction to Markov-Chain Monte Carlo sampling: https://link.springer.com/article/10.3758/s13423-016-1015-8
+ 
+

@@ -8,6 +8,8 @@ navbar:
       href: Schedule.html
     - text: "Materials"
       href: Materials.html
+    - text: "References"
+      href: References.html
     - text: "About"
       href: About.html
 output_dir: "."
