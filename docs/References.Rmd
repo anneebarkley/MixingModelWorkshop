@@ -4,7 +4,7 @@ output: html_document
 
 ---
 
-### Other materials
+### Materials
 
 ##### From the creator of MixSIAR, Brian Stock of Scripps
 
@@ -26,4 +26,16 @@ output: html_document
 
 2. A simple introduction to Markov-Chain Monte Carlo sampling: https://link.springer.com/article/10.3758/s13423-016-1015-8
  
+### Resources from Workshop
+
+The following resources shown in the workshop are located in this [Google Drive Link](https://drive.google.com/drive/folders/1tZyS7aPl-kuyBMCGesV0w6l1YfVpJDp6?usp=sharing)
+
+- Power point presentation (including contributions from Dr. Shannon Doherty and Dr. Ali Pourmand)
+
+- Code for running model with more comments
+
+- Code for plotting model output from .csv files
+
+- Examples of diagnostics from converged and unconverged model runs
+
 
